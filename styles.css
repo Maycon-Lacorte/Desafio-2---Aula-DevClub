@@ -30,7 +30,7 @@ header {
 }
 
 .link:active {
-    color: #FF0000;
+    color: red;
 }
 
 .button-header {
